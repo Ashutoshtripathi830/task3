@@ -1,0 +1,26 @@
+body{
+    background-color: gray;
+}
+.head{
+    color: darkblue;
+}
+#bglime{
+    background-color: bisque;
+}
+#red{
+    color: red;
+}
+p{
+    color: white;
+    font-size: larger;
+}
+#para{
+    color: green;
+}
+#pa{
+    color: black;
+    font-size: larger;
+}
+#here{
+    background-color: red;
+}
